@@ -10,7 +10,7 @@ UI/UX Design · Full-Stack Development
 ## Tools & workflow
 Figma · GitHub · Cloudflare · AI-Augmented Development
 
-## Selected Work
+## Portfolio
 
 ### Quote Forms
 A streamlined quote-request system for service businesses, with customer-facing forms and a private owner dashboard for managing leads.
@@ -19,12 +19,14 @@ A streamlined quote-request system for service businesses, with customer-facing 
 
 [View Live Project](https://quote-forms-landing.gabriellaverhaeg.workers.dev/)
 
+
 ### Unnecessarily Delightful
 An experimental web experience focused on playful interactions, motion, and making ordinary interface elements unnecessarily fun.
 
 **Interaction Design · Creative Development · Frontend**
 
 [View Live Project](https://unnecessarily-delightful.gabriellaverhaeg.workers.dev/)
+
 
 ### The Heirloom Kitchen
 A full recipe and content website designed and developed for long-term publishing, search visibility, and audience growth.
