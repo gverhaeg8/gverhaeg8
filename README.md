@@ -19,6 +19,7 @@ A streamlined quote-request system for service businesses, with customer-facing 
 
 [View Live Project](https://quote-forms-landing.gabriellaverhaeg.workers.dev/)
 
+<p></p>
 
 ### Unnecessarily Delightful
 An experimental web experience focused on playful interactions, motion, and making ordinary interface elements unnecessarily fun.
@@ -27,6 +28,7 @@ An experimental web experience focused on playful interactions, motion, and maki
 
 [View Live Project](https://unnecessarily-delightful.gabriellaverhaeg.workers.dev/)
 
+<p></p>
 
 ### The Heirloom Kitchen
 A full recipe and content website designed and developed for long-term publishing, search visibility, and audience growth.
