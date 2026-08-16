@@ -1,6 +1,6 @@
 # Gabriella Verhaeg
 
-### UI/UX Designer & Full-Stack Developer
+### UI/UX Designer + Full-Stack Developer
 
 I design and build web experiences. Anything from interface and user flow through development and deployment. Currently building a mix of practical tools, interactive experiments, and personal projects.
 
@@ -8,9 +8,10 @@ I design and build web experiences. Anything from interface and user flow throug
 UI/UX Design · Full-Stack Development
 
 ## Tools & workflow
-Figma · GitHub · Cloudflare · AI-Augmented Development
+React · Tailwind CSS · Vite · Node.js · TypeScript · Figma · GitHub · Cloudflare 
 
 ## Portfolio
+https://builtbygabriella.com/portfolio/
 
 ### Quote Forms
 A streamlined quote-request system for service businesses, with customer-facing forms and a private owner dashboard for managing leads.
